@@ -80,6 +80,9 @@ flutter:
     - assets/img/card_3.jpg
     - assets/img/card_4.jpg
     - assets/img/card_5.jpg
+    - assets/img/ann.jpg
+    - assets/img/mountain.jpeg
+    - assets/img/river.jpeg
 
   fonts:
   - family: Lato
